@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LastMinuteTution.github.io/static/css/main.c4bc1f3b.css",
+    "main.js": "/LastMinuteTution.github.io/static/js/main.3c085e92.js",
+    "static/media/4.jpg": "/LastMinuteTution.github.io/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/LastMinuteTution.github.io/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/2.webp": "/LastMinuteTution.github.io/static/media/2.f9561efff3bd3330d3b9.webp",
+    "static/media/1.png": "/LastMinuteTution.github.io/static/media/1.290017eee8b87e7e6c34.png",
+    "index.html": "/LastMinuteTution.github.io/index.html",
+    "main.c4bc1f3b.css.map": "/LastMinuteTution.github.io/static/css/main.c4bc1f3b.css.map",
+    "main.3c085e92.js.map": "/LastMinuteTution.github.io/static/js/main.3c085e92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4bc1f3b.css",
+    "static/js/main.3c085e92.js"
+  ]
+}
